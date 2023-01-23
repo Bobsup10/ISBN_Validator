@@ -1,7 +1,8 @@
 import java.io.File;
 import java.util.Scanner;
 
-/** ISBN number validator
+/**
+ * ISBN number validator
  * @version 01.23.23
  * @author 24rossilli
  */
